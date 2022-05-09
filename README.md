@@ -1,5 +1,21 @@
-### Hi there 👋
+<h1> >Hola mundo ✌ soy Nicolas Moises</h1> 
 
+
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React", "redux"],
+         css: ["StyledComponent"]
+      },
+      backEnd: 
+         js: ["Node", "Express"]
+      },
+      databases: ["mySQL"]
+   },
+   currentOccupation: ["Estudiante de la tecnicatura de programacion superior "ITSE", Abierto a oputinades de trabajo"],
+};
 <!--
 **nicolasmoises/nicolasmoises** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
